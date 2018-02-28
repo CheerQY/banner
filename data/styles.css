@@ -9,6 +9,8 @@
 }
 ._形状 {
 }
+.box_1 {
+}
 ._图片 {
   color:#000000;
 }
@@ -51,6 +53,10 @@
   font-weight:700;
   font-style:normal;
   font-size:10px;
+  text-align:left;
+}
+.label {
+  font-size:14px;
   text-align:left;
 }
 ._文本段落 {
